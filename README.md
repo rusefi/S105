@@ -9,7 +9,7 @@ Geehy apm32F407VGT7
 ![x](S105-ECU.jpg)
 
 
-https://www.youtube.com/watch?v=Sn8AUvUO6Pk
+https://www.youtube.com/watch?v=v7S3eSeuTio
 
 
 Firmware https://github.com/rusefi/rusefi/tree/master/firmware/config/boards/s105
