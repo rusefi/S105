@@ -1,6 +1,6 @@
 # S105
 
-Reverse engineering of S105 ECU using KiCad EDA
+Reverse engineering of SOATE S105 ECU using KiCad EDA
 
 [Interactive Pinout](https://rusefi.com/docs/pinouts/s105/)
 
