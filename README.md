@@ -6,6 +6,8 @@ Reverse engineering of SOATE S105 ECU using KiCad EDA
 
 Geehy apm32F407VGT7
 
+[Forum Discussion](https://rusefi.com/forum/viewtopic.php?f=4&t=2496)
+
 ![x](S105-ECU.jpg)
 
 
