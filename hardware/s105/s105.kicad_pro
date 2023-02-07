@@ -422,6 +422,10 @@
     [
       "67805dcd-7fbe-406f-8fd8-645a14a63452",
       "IGN driver"
+    ],
+    [
+      "ee3a1109-8e4b-4e29-9d62-c24c7abe42b5",
+      "MCU"
     ]
   ],
   "text_variables": {}
