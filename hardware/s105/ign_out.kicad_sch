@@ -627,7 +627,7 @@
     (in_bom yes) (on_board yes)
     (uuid 2c36dd04-1fea-4501-b610-d6753ce142f6)
     (property "Reference" "R62" (id 0) (at 151.765 73.66 90))
-    (property "Value" "100" (id 1) (at 151.765 76.2 90))
+    (property "Value" "10" (id 1) (at 151.765 76.2 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 151.765 77.978 90)
       (effects (font (size 1.27 1.27)) hide)
     )
