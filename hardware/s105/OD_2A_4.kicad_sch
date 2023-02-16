@@ -417,6 +417,8 @@
     (uuid fa846d38-e730-4d3c-85ea-3f1796dc3646)
   )
 
+  (no_connect (at 104.14 80.01) (uuid 4315c41b-7879-41ca-8326-f8db49593d5f))
+
   (wire (pts (xy 154.94 90.17) (xy 154.94 91.44))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0f44a4ed-4463-4842-9e3f-9a34bb5e25e5)

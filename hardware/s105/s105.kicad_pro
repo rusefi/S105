@@ -529,7 +529,7 @@
     ],
     [
       "78e418d7-a531-4f99-a06f-bb8db68465ee",
-      "LM A1"
+      "Knock"
     ],
     [
       "e485fa87-5782-49e1-904c-e88dc9c2f604",
@@ -541,7 +541,15 @@
     ],
     [
       "d52d30ca-905e-414a-9114-dc20bb1f196e",
-      "CAN A1"
+      "CAN"
+    ],
+    [
+      "ff7f3fa8-2523-4d24-96fd-ea8fd6af0490",
+      "Power 12 to 3.3"
+    ],
+    [
+      "468c0791-b631-4678-b5ed-5aaa795e6d56",
+      "Power 5V"
     ]
   ],
   "text_variables": {}
