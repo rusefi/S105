@@ -2,6 +2,9 @@
 
 Reverse engineering of SOATE S105 396200-3763010-00 ECU using KiCad EDA
 
+[TL,DR: schematics (see open issues)](hardware/s105/s105.pdf)
+
+
 [Interactive Pinout](https://rusefi.com/docs/pinouts/s105/)
 
 Geehy apm32F407VGT7
