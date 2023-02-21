@@ -2,7 +2,13 @@
 
   (uuid c243ec56-3a58-4468-867b-f9e194935d66)
 
-  (paper "A4")
+  (paper "A3" portrait)
+
+  (title_block
+    (title "s105")
+    (rev "0.1")
+    (company "rusEFI")
+  )
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
@@ -260,7 +266,6 @@
       )
     )
   )
-
 
   (junction (at 193.04 76.835) (diameter 0) (color 0 0 0 0)
     (uuid 05a35916-e9f6-419c-8ec9-ee3fb2a7d92e)

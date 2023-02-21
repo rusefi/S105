@@ -2,7 +2,13 @@
 
   (uuid c243ec56-3a58-4468-867b-f9e194935d66)
 
-  (paper "A4")
+  (paper "A3" portrait)
+
+  (title_block
+    (title "s105")
+    (rev "0.1")
+    (company "rusEFI")
+  )
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
@@ -322,7 +328,6 @@
     )
   )
 
-
   (junction (at 194.31 86.995) (diameter 0) (color 0 0 0 0)
     (uuid 026aedd3-cd17-49da-8644-6e1a3ee84733)
   )
@@ -358,7 +363,7 @@
   )
 
   (no_connect (at 118.745 92.075) (uuid 59d64dc1-0737-400c-a538-38c9d2aecef0))
-  (no_connect (at 118.745 102.235) (uuid 59d64dc1-0737-400c-a538-38c9d2aecef0))
+  (no_connect (at 118.745 102.235) (uuid 59d64dc1-0737-400c-a538-38c9d2aecef1))
 
   (wire (pts (xy 177.165 99.695) (xy 177.165 99.06))
     (stroke (width 0) (type default) (color 0 0 0 0))

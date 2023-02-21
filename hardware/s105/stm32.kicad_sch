@@ -2,13 +2,13 @@
 
   (uuid b85e7fcc-fcb8-4f3f-b9d9-a567574ce4fb)
 
-  (paper "B")
+  (paper "A3" portrait)
 
   (title_block
-    (title "microRusEFI-2L")
+    (title "s105")
     (date "2022-04-10")
-    (rev "R0.6.0")
-    (company "rusEFI.com")
+    (rev "0.1")
+    (company "rusEFI")
     (comment 1 "Donald Becker")
     (comment 2 "AI6OD")
   )
@@ -764,7 +764,6 @@
       )
     )
   )
-
 
   (junction (at 123.19 142.24) (diameter 0) (color 0 0 0 0)
     (uuid 0ea92114-4add-4ede-abc4-5938831a4fe1)

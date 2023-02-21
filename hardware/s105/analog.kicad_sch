@@ -2,13 +2,13 @@
 
   (uuid b85e7fcc-fcb8-4f3f-b9d9-a567574ce4fb)
 
-  (paper "B")
+  (paper "A3" portrait)
 
   (title_block
-    (title "microRusEFI-2L")
+    (title "s105")
     (date "2022-04-10")
-    (rev "R0.6.0")
-    (company "rusEFI.com")
+    (rev "0.1")
+    (company "rusEFI")
     (comment 1 "Donald Becker")
     (comment 2 "AI6OD")
   )
@@ -411,7 +411,6 @@
       )
     )
   )
-
 
   (junction (at 332.105 118.11) (diameter 0) (color 0 0 0 0)
     (uuid 00efc74d-9521-42c4-b544-7c97980eca30)
@@ -2033,6 +2032,10 @@
   (hierarchical_label "PB11" (shape input) (at 332.74 207.01 180)
     (effects (font (size 1.524 1.524) (thickness 0.3048) bold) (justify right))
     (uuid c3568a52-2c95-412f-9b85-4204341d36db)
+  )
+  (hierarchical_label "12V" (shape input) (at 272.415 36.195 90)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid cace0cca-cb17-414e-a868-4344c51085c5)
   )
   (hierarchical_label "PC4" (shape input) (at 101.6 61.595 0)
     (effects (font (size 1.524 1.524) (thickness 0.3048) bold) (justify left))
@@ -3656,24 +3659,6 @@
     )
     (pin "1" (uuid 0caca6e7-69eb-4c64-8be6-88786d13caa0))
     (pin "2" (uuid c97d7ac2-c4c9-4dac-84fc-0eb4d1eae374))
-  )
-
-  (symbol (lib_id "power:GND") (at 272.415 36.195 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 3b000480-275e-4ec6-b041-bd8d7de6e839)
-    (property "Reference" "#PWR0451" (id 0) (at 272.415 29.845 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (id 1) (at 274.2241 31.8459 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (id 2) (at 272.415 36.195 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 272.415 36.195 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7f25b3f2-787e-4351-bf4e-dccc62f62ede))
   )
 
   (symbol (lib_id "power:+3.3V") (at 66.675 100.965 0) (unit 1)

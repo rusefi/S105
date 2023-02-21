@@ -2,7 +2,13 @@
 
   (uuid 0288c460-9133-4be7-a100-a00dba862f47)
 
-  (paper "A4")
+  (paper "A3" portrait)
+
+  (title_block
+    (title "s105")
+    (rev "0.1")
+    (company "rusEFI")
+  )
 
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)

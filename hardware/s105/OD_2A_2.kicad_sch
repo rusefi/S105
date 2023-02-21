@@ -2,7 +2,13 @@
 
   (uuid c243ec56-3a58-4468-867b-f9e194935d66)
 
-  (paper "A4")
+  (paper "A3" portrait)
+
+  (title_block
+    (title "s105")
+    (rev "0.1")
+    (company "rusEFI")
+  )
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
@@ -992,7 +998,7 @@
     (pin "2" (uuid f0bd7bf8-5091-44e6-9bcb-dc1b0accf648))
   )
 
-  (symbol (lib_id "Diode:1N4148W") (at 124.46 74.93 0) (unit 1)
+  (symbol (lib_id "Diode:1N4148W") (at 124.46 74.93 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 54c0aa58-f87c-43ef-93d3-f2397124a8a4)
     (property "Reference" "D23" (id 0) (at 124.46 68.58 0))

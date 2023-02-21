@@ -2,7 +2,13 @@
 
   (uuid c243ec56-3a58-4468-867b-f9e194935d66)
 
-  (paper "A4")
+  (paper "A3" portrait)
+
+  (title_block
+    (title "s105")
+    (rev "0.1")
+    (company "rusEFI")
+  )
 
   (lib_symbols
     (symbol "Amplifier_Operational:LM2902" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
@@ -534,7 +540,6 @@
       )
     )
   )
-
 
   (junction (at 212.725 114.935) (diameter 0) (color 0 0 0 0)
     (uuid 051bc9a9-71dd-4c3f-97a2-ca86ee343c7d)
