@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=v7S3eSeuTio
 Alternative unofficial firmware https://github.com/rusefi/rusefi/tree/master/firmware/config/boards/s105
 
 Binary https://rusefi.com/build_server/rusefi_bundle_s105.zip
+
+See also https://github.com/rusefi/m74.9
