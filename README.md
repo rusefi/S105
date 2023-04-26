@@ -25,3 +25,5 @@ Alternative unofficial firmware https://github.com/rusefi/rusefi/tree/master/fir
 Binary https://rusefi.com/build_server/rusefi_bundle_s105.zip
 
 See also https://github.com/rusefi/m74.9
+
+[rusefi-status.md](rusefi-status.md)
